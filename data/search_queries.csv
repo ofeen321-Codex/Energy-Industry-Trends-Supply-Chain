@@ -1,0 +1,21 @@
+query_id,topic,query
+Q01,Electricity demand and prices,site:eia.gov electricity demand prices October 2026 Short Term Energy Outlook after:2026-07-25 before:2026-10-24
+Q02,Grid and equipment,US grid transformers switchgear interconnection capacity 2026 site:energy.gov after:2026-07-25 before:2026-10-24
+Q03,Reliability and local markets,site:nerc.com 2026 reliability assessment electricity demand grid
+Q04,Renewables and storage,site:iea.org 2026 solar battery supply chains electricity after:2026-07-25 before:2026-10-24
+Q05,Oil gas LNG,site:reuters.com/business/energy oil gas LNG October 2026 supply after:2026-07-25 before:2026-10-24
+Q06,Minerals and trade,site:reuters.com 2026 critical minerals graphite lithium export restrictions after:2026-07-25 before:2026-10-24
+Q07,US tax and trade rules,US solar battery energy tax credits tariffs 2026 site:federalregister.gov after:2026-07-25 before:2026-10-24
+Q08,Global balances,site:iea.org oil gas critical minerals 2026 outlook
+Q09,US capacity costs,site:pjm.com 2026 capacity auction load forecast after:2026-07-25 before:2026-10-24
+Q10,US mineral dependence,site:usgs.gov mineral commodity summaries 2026 graphite lithium copper
+R01,Mixed procurement,October 2026 energy procurement electricity prices Reuters transformers batteries tariffs
+R02,Grid operator,2026 PJM capacity auction results 2027 2028 price
+R03,Renewable cost,IRENA renewable power generation costs 2025 2026 report
+R04,Commodity forecast vintages,World Bank October 2026 energy prices commodity outlook
+R05,Battery market,2026 battery energy storage prices BloombergNEF supplier oversupply
+R06,Trade rules,2026 US tariffs batteries solar critical minerals Federal Register USTR
+R07,Logistics,UNCTAD Review Maritime Transport 2026 energy shipping freight
+R09,Solar trade follow-through,site.federalregister.gov 2026 October solar India countervailing duty order
+R10,Tariff exclusions,site.ustr.gov 2026 September October battery tariffs exclusions China
+R11,Minerals original data,site.usgs.gov 2026 critical minerals graphite China import reliance

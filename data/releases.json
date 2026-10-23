@@ -1,0 +1,25 @@
+[
+  {
+    "id": "2026-10-23-r1",
+    "status": "archived_draft",
+    "as_of": "2026-10-23",
+    "summary": "Prior local report preserved for comparison; never represented as a published website release.",
+    "report_path": "reports/energy-supply-chain-outlook-2026-10-23-v1.md",
+    "changes": [
+      "Initial report and four charts preserved"
+    ]
+  },
+  {
+    "id": "2026-10-23-r2",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "summary": "Broader sources, decision-based global/U.S. structure and proposed twice-weekly website workflow.",
+    "report_path": "reports/energy-supply-chain-outlook.md",
+    "changes": [
+      "Added international, laboratory, operator, commercial and trade evidence",
+      "Updated storage and minerals forecast vintages",
+      "Separated global benchmarks and U.S. procurement costs",
+      "Added website/content plan, draft structured outlooks and review process"
+    ]
+  }
+]

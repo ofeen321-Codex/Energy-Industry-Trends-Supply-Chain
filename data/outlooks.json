@@ -1,0 +1,308 @@
+[
+  {
+    "id": "F01",
+    "title": "Regional energy-cost differences remain important to sourcing",
+    "topic": "energy-prices",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Gas and electricity exposures vary by region and contract; overseas energy-intensive suppliers need local assessment.",
+    "us_view": "Lower average wholesale energy prices may coexist with rising local network, demand or capacity costs.",
+    "observation_ids": [
+      "E01",
+      "E02"
+    ],
+    "source_ids": [
+      "B01",
+      "A01"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Map facility tariffs, load and pass-throughs",
+      "Stage purchases within approved limits; test regional supplier exposure"
+    ],
+    "review_triggers": [
+      "New EIA outlook or regional tariff",
+      "Material gas benchmark/basis change"
+    ],
+    "counterevidence": "Benign weather, improved fuel supply or lower network costs could reduce pressure.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Review delivered-cost evidence by region; do not score a universal price direction or exact site savings."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F02",
+    "title": "Connection and execution constraints remain uneven",
+    "topic": "grid-capacity",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Shared equipment and engineering supply can transmit demand internationally; U.S. queue statistics do not measure global delays.",
+    "us_view": "Obtain facility-specific utility and manufacturing milestones; generation queues do not measure load connection waits.",
+    "observation_ids": [
+      "E03",
+      "E04",
+      "E05"
+    ],
+    "source_ids": [
+      "B03",
+      "B04",
+      "S09",
+      "B05"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Verify energization and factory slots before capital approval",
+      "Qualify alternate equipment and approved repair sources"
+    ],
+    "review_triggers": [
+      "Utility or commissioning slip",
+      "New queue study or dated qualified quote"
+    ],
+    "counterevidence": "Faster reforms, withdrawn projects and new qualified output could ease selected bottlenecks.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Compare new connection and equipment evidence while preserving population and duration definitions; require site proof before an investment claim."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F03",
+    "title": "Renewable cost benefits depend on location and delivery",
+    "topic": "renewables",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Project financing, resources and installation costs can offset cheap hardware.",
+    "us_view": "Landed costs, trade remedies, labor, tax eligibility and commissioning determine buyer economics.",
+    "observation_ids": [
+      "E08",
+      "E15",
+      "E12"
+    ],
+    "source_ids": [
+      "B09",
+      "B10",
+      "B16",
+      "B12"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Compare commissioned lifecycle cost and no-credit case",
+      "Allocate EPC and equipment interfaces and origin liability"
+    ],
+    "review_triggers": [
+      "Revised bids or financing",
+      "New trade order or interconnection event"
+    ],
+    "counterevidence": "More qualified supply, cheaper finance and faster connections could improve savings.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Reassess like-for-like bids and comparable cost studies; do not substitute global LCOE for U.S. tariffs."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F04",
+    "title": "Storage growth creates opportunities with contract and integration risk",
+    "topic": "batteries",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Deployment forecasts broaden beyond the largest markets, but a forecast is not capacity already shipping.",
+    "us_view": "Usable MW/MWh, dispatch rights, throughput, warranties and eligible supply matter more than pack price alone.",
+    "observation_ids": [
+      "E09",
+      "E15",
+      "E14"
+    ],
+    "source_ids": [
+      "B07",
+      "A06",
+      "A09",
+      "A10",
+      "B12"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Tender usable performance, augmentation and service",
+      "Verify supply acceptance obligations and credit documentation"
+    ],
+    "review_triggers": [
+      "New BNEF forecast vintage",
+      "Changed market rights, cycles or warranties"
+    ],
+    "counterevidence": "Factory delays, weaker economics or policy changes could reduce deployment; competition may improve hardware bids.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Review newer deployment evidence and actual project performance; do not score full-year 2027 totals before data are available."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F05",
+    "title": "Processing and license exposure persist despite better aggregate supply outlooks",
+    "topic": "critical-minerals",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Refining concentration and restrictions can constrain access despite sufficient global capacity.",
+    "us_view": "Map processors and component inputs; two assemblers may share the same upstream source.",
+    "observation_ids": [
+      "E10",
+      "E11"
+    ],
+    "source_ids": [
+      "A19",
+      "B17"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Qualify independent upstream alternatives",
+      "Use selective buffers and transparent material-index clauses"
+    ],
+    "review_triggers": [
+      "New export notice/license event",
+      "Evidence on suspension extension or new capacity"
+    ],
+    "counterevidence": "New refining capacity, substitutions or eased controls could improve access.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Compare access, concentration and short-term supply evidence; keep post-2027 deficits as context."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F06",
+    "title": "Fuel-logistics normalization remains uncertain",
+    "topic": "fuel-logistics",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Product availability and route/insurance stress can outlast restored crude flows.",
+    "us_view": "Diesel-sensitive operations need transparent surcharges, alternative terminals and continuity plans.",
+    "observation_ids": [
+      "E06",
+      "E07"
+    ],
+    "source_ids": [
+      "A04",
+      "A03",
+      "A05"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Separate crude, product basis and freight risks",
+      "Audit surcharge resets and alternate supply"
+    ],
+    "review_triggers": [
+      "Product inventory deterioration",
+      "Route or insurance disruption"
+    ],
+    "counterevidence": "Sustained route reopening and inventory rebuilding could ease costs sooner.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Monitor product inventories and route-specific freight; timing confidence remains low and no fixed normalization date is claimed."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F07",
+    "title": "U.S. gas supply may buffer export growth, with local risks",
+    "topic": "natural-gas",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "LNG importers face a different shipping and contract mix from U.S. Henry Hub buyers.",
+    "us_view": "Production/inventory growth may offset LNG demand, but weather and pipeline basis can dominate a facility bill.",
+    "observation_ids": [
+      "E01",
+      "E16"
+    ],
+    "source_ids": [
+      "B01",
+      "A02"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Quote delivered basis and firm transport separately",
+      "Review interruptible service and backup fuel"
+    ],
+    "review_triggers": [
+      "Cold weather or inventory surprise",
+      "Production, LNG or pipeline constraint"
+    ],
+    "counterevidence": "Production shortfalls or prolonged cold would weaken the buffer; lower demand could strengthen it.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Compare EIA forecast revisions and realized gas balances; retain full-year 2027 as context outside the exact report horizon."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  },
+  {
+    "id": "F08",
+    "title": "Trade and eligibility rules continue to segment sourcing",
+    "topic": "trade-regulation",
+    "claim_type": "analyst_outlook",
+    "status": "draft",
+    "as_of": "2026-10-23",
+    "horizon_start": "2026-10-23",
+    "horizon_end": "2027-10-23",
+    "global_view": "Diversification can redirect trade without removing origin, refining or remedy exposure.",
+    "us_view": "Recheck product scope, producer, HTS/Chapter 99 codes, entry date and credit assumptions before purchase.",
+    "observation_ids": [
+      "E12",
+      "E13",
+      "E14",
+      "E15"
+    ],
+    "source_ids": [
+      "B10",
+      "B16",
+      "B15",
+      "A06",
+      "A09",
+      "A10",
+      "B12"
+    ],
+    "confidence": "medium",
+    "procurement_actions": [
+      "Obtain current broker/legal treatment and supplier certifications",
+      "Contract for duties, customs delays and change-in-law allocation"
+    ],
+    "review_triggers": [
+      "New order, CBP instruction or HTS change",
+      "New IRS guidance or ownership/origin change"
+    ],
+    "counterevidence": "Stable rules or valid exclusions may reduce costs; legal status may change in either direction.",
+    "evaluation": {
+      "method": "directional_review",
+      "criterion": "Reverify operative documents every update and before transactions; do not predict an exact future tariff rate or legal outcome."
+    },
+    "last_reviewed": "2026-10-23",
+    "next_review_due": "2026-10-27"
+  }
+]

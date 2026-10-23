@@ -1,0 +1,23 @@
+metric_id,chart,metric,label,period,value,unit,evidence_type,source_id,source_date,source_locator,notes
+M01,wholesale-price-dispersion,wholesale_change,PJM,2026_vs_2025,41,percent,forecast,A01,2026-10-06,Electricity prices and consumption,Forecast not retail bill change
+M02,wholesale-price-dispersion,wholesale_change,U.S. tracked hubs,2026_vs_2025,11,percent,forecast,A01,2026-10-06,Electricity prices and consumption,Forecast not retail bill change
+M03,wholesale-price-dispersion,wholesale_change,Mid-Columbia,2026_vs_2025,-23,percent,forecast,A01,2026-10-06,Electricity prices and consumption,Forecast not retail bill change
+M04,transformer-domestic-coverage,domestic_coverage,Large power transformers,2025,20,percent,reported_estimate,S09,2026-05-08,Supply chain constraints / Exhibit 6,Unfilled chart area is not unmet demand
+M05,transformer-domestic-coverage,domestic_coverage,Distribution transformers,2025,50,percent,reported_estimate,S09,2026-05-08,Supply chain constraints / Exhibit 6,Unfilled chart area is not unmet demand
+M06,battery-utilization,cycles,Co-located,2025,199,cycles_per_year,reported_estimate,S07,2026-07-16,Key takeaways 3 and 4,China only; benchmark not observed or forecast
+M07,battery-utilization,cycles,Standalone,2025,299,cycles_per_year,reported_estimate,S07,2026-07-16,Key takeaways 3 and 4,China only; benchmark not observed or forecast
+M08,battery-utilization,cycles,Optimized benchmark,2025,350,cycles_per_year,optimization_benchmark,S07,2026-07-16,Key takeaways 3 and 4,China only; benchmark not observed or forecast
+M09,fuel-price-outlook,brent,brent,2025,69,USD_per_barrel,historical,A03,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M10,fuel-price-outlook,brent,brent,2026,96,USD_per_barrel,forecast,A03,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M11,fuel-price-outlook,brent,brent,2027,84,USD_per_barrel,forecast,A03,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M12,fuel-price-outlook,henry_hub,henry_hub,2025,3.53,USD_per_MMBtu,historical,A02,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M13,fuel-price-outlook,henry_hub,henry_hub,2026,3.48,USD_per_MMBtu,forecast,A02,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M14,fuel-price-outlook,henry_hub,henry_hub,2027,3.16,USD_per_MMBtu,forecast,A02,2026-10-06,Annual summary table,2027 annual value extends beyond report horizon
+M15,regional-gas-benchmarks,gas_price,U.S. Henry Hub,2026-09,2.95,USD_per_MMBtu,reported_observation,B01,2026-10-02,Page 1; monthly September column; definitions page,Spot benchmark; not delivered industrial gas
+M16,regional-gas-benchmarks,gas_price,Europe TTF,2026-09,25.42,USD_per_MMBtu,reported_observation,B01,2026-10-02,Page 1; monthly September column; definitions page,Regional market benchmark; not electricity
+M17,regional-gas-benchmarks,gas_price,Japan LNG imports,2026-09,14.25,USD_per_MMBtu,reported_estimate,B01,2026-10-02,Page 1; monthly September column; definitions page,Cif import price; recent months estimated; not like-for-like spot contract
+M18,solar-generation-costs,solar_lcoe,Global,2025,44,2025_USD_per_MWh,reported_estimate,B09,2026-07,Executive summary Figure S3,Weighted generation LCOE; not buyer tariff or firm supply
+M19,solar-generation-costs,solar_lcoe,China,2025,36,2025_USD_per_MWh,reported_estimate,B09,2026-07,Executive summary Figure S3,Weighted generation LCOE; not buyer tariff or firm supply
+M20,solar-generation-costs,solar_lcoe,India,2025,35,2025_USD_per_MWh,reported_estimate,B09,2026-07,Executive summary Figure S3,Weighted generation LCOE; not buyer tariff or firm supply
+M21,solar-generation-costs,solar_lcoe,United States,2025,62,2025_USD_per_MWh,reported_estimate,B09,2026-07,Executive summary Figure S3,Weighted generation LCOE; not buyer tariff or firm supply
+M22,solar-generation-costs,solar_lcoe,Germany,2025,65,2025_USD_per_MWh,reported_estimate,B09,2026-07,Executive summary Figure S3,Weighted generation LCOE; not buyer tariff or firm supply

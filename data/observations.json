@@ -1,0 +1,231 @@
+[
+  {
+    "id": "E01",
+    "claim_type": "reported_observation",
+    "text": "September gas benchmarks were $2.95/MMBtu (US Henry Hub), $25.42 (Europe TTF) and $14.25 (Japan LNG imports).",
+    "source_ids": [
+      "B01"
+    ],
+    "geography": "US; Europe; Japan",
+    "period": "September 2026",
+    "metric": "USD/MMBtu",
+    "limitation": "Japan recent data are estimates; benchmark and cif import-price series are not equivalent delivered contracts.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E02",
+    "claim_type": "source_forecast",
+    "text": "EIA forecasts tracked-hub wholesale electricity at $49/MWh in 2027 and commercial/industrial demand growth of 2.8%/2.7%.",
+    "source_ids": [
+      "A01"
+    ],
+    "geography": "United States",
+    "period": "Calendar 2027",
+    "metric": "USD/MWh; sector demand percent growth",
+    "limitation": "Forecast inputs finalized October 1, 2026; full-year 2027 extends beyond October report horizon.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E03",
+    "claim_type": "reported_observation",
+    "text": "Median request-to-operation time exceeded five years for generation projects completed in 2025 in regions with available data.",
+    "source_ids": [
+      "B03",
+      "B04"
+    ],
+    "geography": "United States",
+    "period": "Completed generation projects in 2025",
+    "metric": "Median years",
+    "limitation": "Excludes load requests, distribution connections and behind-the-meter projects; catalog/PDF date distinction retained.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E04",
+    "claim_type": "reported_observation",
+    "text": "RMI reports waits of up to four years for some large power transformers.",
+    "source_ids": [
+      "S09"
+    ],
+    "geography": "United States",
+    "period": "Market conditions reported May 2026",
+    "metric": "Upper-end equipment lead time",
+    "limitation": "Not a market median or a current vendor quote; do not add to queue duration.",
+    "evidence_confidence": "medium",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E05",
+    "claim_type": "reported_observation",
+    "text": "PJM July auction release reports $325/MW-day UCAP and resources below its reliability requirement for 2028/2029.",
+    "source_ids": [
+      "B05"
+    ],
+    "geography": "PJM region",
+    "period": "2028/2029 delivery year; auction July 2026",
+    "metric": "Capacity USD/MW-day UCAP",
+    "limitation": "Outside report horizon; not energy price, 2027 bill or proof of outages; later interventions may change position.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E06",
+    "claim_type": "reported_observation",
+    "text": "IEA reports Middle East Gulf-to-Asia crude freight above $37/barrel by mid-October.",
+    "source_ids": [
+      "A04"
+    ],
+    "geography": "Middle East Gulf to Asia",
+    "period": "Mid-October 2026",
+    "metric": "Route-specific crude freight USD/barrel",
+    "limitation": "Not a universal shipping or container rate.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E07",
+    "claim_type": "source_forecast",
+    "text": "EIA forecasts 2027 annual Brent at $84/barrel conditional on recovering supply; IEA warns distillate tightness may persist into 2027.",
+    "source_ids": [
+      "A03",
+      "A05"
+    ],
+    "geography": "Global oil and products",
+    "period": "October 2026 forecasts for 2027",
+    "metric": "Annual price forecast and qualitative product balance",
+    "limitation": "Different products and assumptions; full calendar year extends beyond report horizon; no guaranteed normalization.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E08",
+    "claim_type": "reported_observation",
+    "text": "IRENA reports 2025 solar PV LCOE of $44/MWh globally and $62/MWh in the US.",
+    "source_ids": [
+      "B09"
+    ],
+    "geography": "Global; United States",
+    "period": "2025 project costs",
+    "metric": "2025 USD/MWh generation LCOE",
+    "limitation": "Weighted project costs, not buyer tariff, battery price or firm 24-hour supply.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E09",
+    "claim_type": "source_forecast",
+    "text": "BNEF October outlook projects global storage additions of 188 GW/535 GWh in 2026 and 209 GW/638 GWh in 2027.",
+    "source_ids": [
+      "B07"
+    ],
+    "geography": "Global",
+    "period": "Calendar 2026 and 2027",
+    "metric": "Forecast annual additions GW; GWh",
+    "limitation": "Not actual deployment; older May and August inputs have different vintage and potentially scope.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E10",
+    "claim_type": "reported_observation",
+    "text": "IEA documents concentrated refining and expanded mineral export controls in its July outlook.",
+    "source_ids": [
+      "A19"
+    ],
+    "geography": "Global",
+    "period": "2025–mid-2026 market evidence",
+    "metric": "Refining concentration; trade restrictions",
+    "limitation": "November 2026 suspension watch requires current verification; long-run supply gaps are not next-year shortage facts.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E11",
+    "claim_type": "source_forecast",
+    "text": "BNEF October minerals outlook expects temporary lithium deficit relief with new capacity in 2027, conditional on development.",
+    "source_ids": [
+      "B17"
+    ],
+    "geography": "Global",
+    "period": "2027 and longer-run scenarios",
+    "metric": "Qualitative supply-capacity outlook",
+    "limitation": "Aggregate supply is not secure regional access; copper deficit from 2028 is outside report horizon.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E12",
+    "claim_type": "documented_provision",
+    "text": "Commerce announced final affirmative solar AD/CVD determinations for India, Indonesia and Laos; India CVD notice specifies scope and conditional follow-through.",
+    "source_ids": [
+      "B10",
+      "B16"
+    ],
+    "geography": "United States imports",
+    "period": "September 2026 determinations",
+    "metric": "Trade-remedy determination",
+    "limitation": "Not equivalent to final order or current importer liability; later ITC/CBP status not verified for a transaction.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E13",
+    "claim_type": "documented_provision",
+    "text": "USTR amended four Section 301 exclusion descriptions for HTS statistical changes effective July 1, 2026.",
+    "source_ids": [
+      "B15"
+    ],
+    "geography": "United States imports",
+    "period": "Published September 2; effective July 1, 2026",
+    "metric": "Exclusion descriptions and HTS classification",
+    "limitation": "Not a blanket battery exclusion or universal tariff rate.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E14",
+    "claim_type": "documented_provision",
+    "text": "IRS notices address wind/solar construction timing and PFE/material-assistance tests for selected credits.",
+    "source_ids": [
+      "A06",
+      "A09",
+      "A10"
+    ],
+    "geography": "United States",
+    "period": "2025 notice and February 2026 interim guidance",
+    "metric": "Tax-credit provisions",
+    "limitation": "Subsequent guidance and transaction eligibility require verification; storage treatment differs from wind/solar.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E15",
+    "claim_type": "source_analysis",
+    "text": "Morgan Lewis describes allocation of EPC, supply, warranty, change-in-law and storage performance risks.",
+    "source_ids": [
+      "B12"
+    ],
+    "geography": "US procurement; contract principles",
+    "period": "March 13, 2026 publication",
+    "metric": "Contract risk allocation",
+    "limitation": "Legal commentary, not controlling law or evidence of supplier failure.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  },
+  {
+    "id": "E16",
+    "claim_type": "source_forecast",
+    "text": "EIA forecasts LNG exports of 18.6 Bcf/day and Henry Hub of $3.16/MMBtu in 2027 as production and inventories offset demand.",
+    "source_ids": [
+      "A02"
+    ],
+    "geography": "United States",
+    "period": "Calendar 2027",
+    "metric": "Bcf/day; USD/MMBtu",
+    "limitation": "Weather and regional pipeline/basis exposure remain; not a delivered quote.",
+    "evidence_confidence": "high",
+    "last_reviewed": "2026-10-23"
+  }
+]

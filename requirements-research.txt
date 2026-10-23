@@ -1,0 +1,5 @@
+# Optional refresh dependencies; retrieval of HTML/search uses Python standard library.
+# Validated in this environment with Python 3.12.14.
+matplotlib==3.10.8
+pypdf==6.10.0
+jsonschema==4.26.0
